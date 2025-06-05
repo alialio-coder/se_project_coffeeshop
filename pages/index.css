@@ -177,7 +177,7 @@
   padding-bottom: 120px;
 }
 
-.reservation-title {
+.reservation__title {
   margin: 0 0 80px;
   text-align: center;
   font-style: normal;
@@ -190,7 +190,7 @@
   max-width: 385px;
 }
 
-.reservation-form {
+.reservation__form {
   margin: 0 auto;
 }
 
