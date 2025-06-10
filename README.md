@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Make the site fully responsive for mobile and tablet
+- Add interactivity with JavaScript
+- Integrate a dark mode toggle
