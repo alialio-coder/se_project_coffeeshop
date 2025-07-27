@@ -16,3 +16,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Make the site fully responsive for mobile and tablet
 - Add interactivity with JavaScript
 - Integrate a dark mode toggle
+
+Check out the live version of the project here:  
+🔗 [Triple Peaks Coffee Shop Live Site](https://alialio-coder.github.io/se_project_coffeeshop/)
